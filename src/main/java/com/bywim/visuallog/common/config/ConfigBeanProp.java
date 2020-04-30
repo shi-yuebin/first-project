@@ -16,7 +16,7 @@ import org.springframework.stereotype.Component;
 public class ConfigBeanProp {
 
     /**
-     * 主机ip
+     * 主机ip地址
      */
     private String host;
 
